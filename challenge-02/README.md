@@ -15,7 +15,7 @@ function soma( a, b ) {
 ?
 
 // Declare uma nova variável, sem valor.
-?
+var newVar;
 
 /*
 Crie uma função que adicione um valor à variável criada acima, e retorne a string:

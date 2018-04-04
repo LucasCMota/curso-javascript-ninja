@@ -17,6 +17,7 @@ As propriedades e tipos de valores para cada propriedade desse objeto devem ser:
 - `caminhouQuantosMetros` - Number - recebe "zero" por padrão
 */
 var pessoa ={
+	'nome' : 'lucas';
 	
 }
 
